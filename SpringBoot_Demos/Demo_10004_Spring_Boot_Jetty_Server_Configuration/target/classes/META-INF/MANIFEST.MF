@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Implementation-Title: Demo_10004_Spring_Boot_Jetty_Server_Configuratio
+ n
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: mohpreet.singh
+Implementation-Vendor-Id: com.lkm.accenture
+Build-Jdk: 1.8.0_172
+Implementation-URL: http://projects.spring.io/spring-boot/Demo_10004_S
+ pring_Boot_Jetty_Server_Configuration/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
