@@ -1,11 +1,11 @@
 Manifest-Version: 1.0
+Built-By: Kartikey Hebbar
+Build-Jdk: 15.0.1
 Implementation-Title: Demo_10003_Spring_Boot_Project_Structure
 Implementation-Version: 0.0.1-SNAPSHOT
-Built-By: mohpreet.singh
 Implementation-Vendor-Id: com.lkm.accenture
-Build-Jdk: 1.8.0_172
-Implementation-URL: http://projects.spring.io/spring-boot/Demo_10003_S
- pring_Boot_Project_Structure/
-Created-By: Maven Integration for Eclipse
 Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/Demo_10003_Spr
+ ing_Boot_Project_Structure/
+Created-By: Maven Integration for Eclipse
 

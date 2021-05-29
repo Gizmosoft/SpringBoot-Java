@@ -1,12 +1,12 @@
 Manifest-Version: 1.0
 Built-By: Kartikey Hebbar
 Build-Jdk: 15.0.1
-Implementation-Title: Demo_10007_Spring_Boot_Content_Negotiation_Parmete
- r_Based_Java_Config
+Implementation-Title: Demo_10006_Spring_Boot_Content_Negotiation_Parmete
+ r_Based
 Implementation-Version: 0.0.1-SNAPSHOT
 Implementation-Vendor-Id: com.lkm.accenture
 Implementation-Vendor: Pivotal Software, Inc.
-Implementation-URL: http://projects.spring.io/spring-boot/Demo_10007_Spr
- ing_Boot_Content_Negotiation_Parmeter_Based_Java_Config/
+Implementation-URL: http://projects.spring.io/spring-boot/Demo_10006_Spr
+ ing_Boot_Content_Negotiation_Parmeter_Based/
 Created-By: Maven Integration for Eclipse
 
